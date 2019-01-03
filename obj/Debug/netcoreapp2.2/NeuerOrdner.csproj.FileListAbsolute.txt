@@ -1,0 +1,11 @@
+/Users/christianmarzian/Desktop/NeuerOrdner/bin/Debug/netcoreapp2.2/NeuerOrdner.deps.json
+/Users/christianmarzian/Desktop/NeuerOrdner/bin/Debug/netcoreapp2.2/NeuerOrdner.runtimeconfig.json
+/Users/christianmarzian/Desktop/NeuerOrdner/bin/Debug/netcoreapp2.2/NeuerOrdner.runtimeconfig.dev.json
+/Users/christianmarzian/Desktop/NeuerOrdner/bin/Debug/netcoreapp2.2/NeuerOrdner.dll
+/Users/christianmarzian/Desktop/NeuerOrdner/bin/Debug/netcoreapp2.2/NeuerOrdner.pdb
+/Users/christianmarzian/Desktop/NeuerOrdner/obj/Debug/netcoreapp2.2/NeuerOrdner.csprojAssemblyReference.cache
+/Users/christianmarzian/Desktop/NeuerOrdner/obj/Debug/netcoreapp2.2/NeuerOrdner.csproj.CoreCompileInputs.cache
+/Users/christianmarzian/Desktop/NeuerOrdner/obj/Debug/netcoreapp2.2/NeuerOrdner.AssemblyInfoInputs.cache
+/Users/christianmarzian/Desktop/NeuerOrdner/obj/Debug/netcoreapp2.2/NeuerOrdner.AssemblyInfo.cs
+/Users/christianmarzian/Desktop/NeuerOrdner/obj/Debug/netcoreapp2.2/NeuerOrdner.dll
+/Users/christianmarzian/Desktop/NeuerOrdner/obj/Debug/netcoreapp2.2/NeuerOrdner.pdb
